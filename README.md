@@ -1,1 +1,2 @@
 # EResource
+这是EResource的代码仓库，包含了EResource的所有代码和文档。
